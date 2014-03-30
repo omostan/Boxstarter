@@ -1,14 +1,20 @@
 Set-ExplorerOptions -showHidenFilesFoldersDrives -showProtectedOSFiles -showExtensions
 Enable-RemoteDesktop
-
+ 
 cinst fiddler4
 cinst git-credential-winstore
 cinst console-devel
 cinst sublimetext2
 cinst poshgit
 cinst dotpeek
-
+ 
 cinst winrar
 cinst 7zip
 cinst GoogleChrome
 cinst notepadplusplus.install
+cinst ultraiso
+cinst paint.net
+cinst DotNET
+cinst putty.install
+cinst rdm
+cinst filezilla
