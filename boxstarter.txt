@@ -1,4 +1,4 @@
-Set-ExplorerOptions -showHidenFilesFoldersDrives -showProtectedOSFiles -showExtensions
+Set-WindowsExplorerOptions -showHidenFilesFoldersDrives -showProtectedOSFiles -showExtensions
 Enable-RemoteDesktop
  
 cinst fiddler4
